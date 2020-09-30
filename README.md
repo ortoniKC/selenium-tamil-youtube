@@ -19,8 +19,8 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 1. Course overview
 
-![https://youtu.be/SCn5rkS8xpY](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/selenium-java-tamil.png)
+[![Course overview](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/selenium-java-tamil.png)](https://youtu.be/SCn5rkS8xpY)
 
 2. JDK installation, Eclipse & Maven project setup
 
-![https://youtu.be/3ISUDnyjUOs](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/selenium-maven-tamil.png)
+[![JDK installation, Eclipse & Maven project setup](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/selenium-maven-tamil.png)](https://youtu.be/3ISUDnyjUOs)
