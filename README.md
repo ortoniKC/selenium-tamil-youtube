@@ -33,3 +33,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 4. Data types | Java Basic | Selenium தமிழ் | LetCode
 
 [![Data types in java](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/datatypes.png)](https://youtu.be/2YWU9RNDz9o)
+
+5. Methods in Java - Part 1 | Java Basic | Selenium தமிழ் | LetCode
+
+[![methosd](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/methodsinjava.png)](https://youtu.be/zIN8y6uhmhU)
