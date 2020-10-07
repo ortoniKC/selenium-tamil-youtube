@@ -3,7 +3,7 @@ package episode4;
 public class YouTuber {
 	
 	// accessModifier returnType methodName() {
-//	 }
+	//	 	}
 	
 	
 	public void createVideo() {
@@ -11,8 +11,8 @@ public class YouTuber {
 	}
 	
 	private boolean uploadVideo(){
+		System.out.println();
 		return true;
-//		System.out.println("Uploading");
 	}
 	
 	public String shareVideo() {

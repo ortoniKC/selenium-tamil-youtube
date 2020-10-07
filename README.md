@@ -37,3 +37,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 5. Methods in Java - Part 1 | Java Basic | Selenium தமிழ் | LetCode
 
 [![methosd](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/methodsinjava.png)](https://youtu.be/zIN8y6uhmhU)
+
+6. Methods in Java - Part 2 | Java Basic | Selenium தமிழ் | LetCode
+
+[![methosd](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/javamethods.png)](https://youtu.be/gZEvd-5bIsU)
