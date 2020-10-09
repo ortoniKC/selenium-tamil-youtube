@@ -41,3 +41,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 6. Methods in Java - Part 2 | Java Basic | Selenium தமிழ் | LetCode
 
 [![methosd](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/javamethods.png)](https://youtu.be/gZEvd-5bIsU)
+
+7. Local & Instance variable, this keyword | Java Basic | Selenium தமிழ் | LetCode
+
+[![local variable](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/local%20and%20instance%20variable%20in%20java.png)[https://youtu.be/RRQBFqTOiZw]]
