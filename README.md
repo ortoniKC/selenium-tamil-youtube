@@ -49,3 +49,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 8. Constructor in Java | Java Basic | Selenium தமிழ் | LetCode
 
 [![constructor](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/javaconstructor.png)](https://youtu.be/h5wMknZzcy4)
+
+9. Static variable in Java | Java Basic | Selenium தமிழ் | LetCode
+
+[![staticvariable](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/staticvariablejava.png)](https://youtu.be/ibevmIdjvDI)
