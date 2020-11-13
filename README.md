@@ -61,3 +61,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 11. Arrays | Arrays.toString | Java Basic | Selenium தமிழ் | LetCode
 
 [![staticvariable](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/10.png)](https://youtu.be/CE6Ikhr0StU)
+
+12. How to launch browser | Selenium தமிழ் | LetCode
+
+[![staticvariable](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/12.png)](https://youtu.be/iWRDB-EDmE4)
