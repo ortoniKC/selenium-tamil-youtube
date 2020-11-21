@@ -68,6 +68,10 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 13. How to launch browser | Selenium தமிழ் | LetCode
 
-[![launch browser](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/12.png)](https://youtu.be/iWRDB-EDmE4)
+[![launch browser](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/12.png)](https://youtu.be/iWRDB-EDmE4).
+
+14. Understanding DOM - HTML/CSS | Selenium தமிழ்
+
+[![html-css](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/13.png)](https://youtu.be/RRdY20_GuBg)
 
 
