@@ -74,4 +74,6 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![html-css](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/13.png)](https://youtu.be/RRdY20_GuBg)
 
+15. Locators in Selenium | Selenium தமிழ்
 
+[![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/15.png)](https://youtu.be/qhBZgUwEtl8)
