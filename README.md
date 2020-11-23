@@ -81,3 +81,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 15. Handling Inputs | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/16.png)](https://youtu.be/ZT-IeKZiy5s)
+
+16. Driver Navaigation Commands | Selenium தமிழ்
+
+[![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/17.png)](https://youtu.be/zXzdIhjAY-k)
