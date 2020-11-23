@@ -77,3 +77,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 15. Locators in Selenium | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/15.png)](https://youtu.be/qhBZgUwEtl8)
+
+15. Handling Inputs | Selenium தமிழ்
+
+[![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/16.png)](https://youtu.be/ZT-IeKZiy5s)
