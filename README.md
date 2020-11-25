@@ -89,3 +89,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 17. Handking Buttons | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/18.png)](https://youtu.be/ovImXEsKz1M)
+
+18. ScreenShot | Selenium தமிழ்
+
+[![ScreenShot](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/19.png)](https://youtu.be/ovImXEsKz1M)
