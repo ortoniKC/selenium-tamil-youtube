@@ -85,3 +85,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 16. Driver Navaigation Commands | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/17.png)](https://youtu.be/zXzdIhjAY-k)
+
+17. Handking Buttons | Selenium தமிழ்
+
+[![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/18.png)](https://youtu.be/ovImXEsKz1M)
