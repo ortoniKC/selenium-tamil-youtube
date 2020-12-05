@@ -9,6 +9,9 @@ public class YouTuber {
 		YouTuber yt = new YouTuber();
 		yt.deleteVideo("iabsicbas125");
 		yt.deleteVideo(124);
+		yt.shareVideo()
+		.toLowerCase()
+		.trim();
 		
 		System.out.println("asdsa");
 		
