@@ -78,26 +78,50 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/15.png)](https://youtu.be/qhBZgUwEtl8)
 
-15. Handling Inputs | Selenium தமிழ்
+16. Handling Inputs | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/16.png)](https://youtu.be/ZT-IeKZiy5s)
 
-16. Driver Navaigation Commands | Selenium தமிழ்
+17. Driver Navaigation Commands | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/17.png)](https://youtu.be/zXzdIhjAY-k)
 
-17. Handking Buttons | Selenium தமிழ்
+18. Handking Buttons | Selenium தமிழ்
 
 [![locators](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/18.png)](https://youtu.be/ovImXEsKz1M)
 
-18. ScreenShot | Selenium தமிழ்
+19. ScreenShot | Selenium தமிழ்
 
 [![ScreenShot](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/19.png)](https://youtu.be/QG3Byn8Dcw8)
 
-19. Alert | Selenium தமிழ்
+20. Alert | Selenium தமிழ்
 
 [![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/20.png)](https://youtu.be/KOiSz_50rIU)
 
-20. Frames | Selenium தமிழ்
+21. Frames | Selenium தமிழ்
 
 [![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/21.png)](https://youtu.be/TPolii6kKWo)
+
+22. How to maximize browser | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/22.png)](https://youtu.be/KCPXfBXYxuc)
+
+23. Implicit  Wait | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/23.png)](https://youtu.be/JyBAAsbYxXM)
+
+24. Drag & Drop | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/24.png)](https://youtu.be/0YPbAlPHj9I)
+
+25. Drag & Drop By | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/25.png)](https://youtu.be/DnXlb8Toz8Q)
+
+26. Mouse Hover | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/26.png)](https://youtu.be/jKrtxk1huPQ)
+
+27. Right Click | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/27.png)](https://youtu.be/lxtdubVKquA)
