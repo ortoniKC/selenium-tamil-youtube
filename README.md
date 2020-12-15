@@ -125,3 +125,8 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 27. Right Click | Selenium தமிழ்
 
 [![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/27.png)](https://youtu.be/lxtdubVKquA)
+
+28. DropDown - Select | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/28.png)](https://youtu.be/AePUqXdnJUo)
+
