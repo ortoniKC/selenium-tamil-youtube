@@ -130,3 +130,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/28.png)](https://youtu.be/AePUqXdnJUo)
 
+29.Get Text VS Get Attribute | Selenium தமிழ்
+
+[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/29.png)](https://youtu.be/QX4sXw_q2yc)
+
