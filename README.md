@@ -140,4 +140,9 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 31. How to do Validation | Selenium தமிழ்
 
-[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/31.png)](https://youtu.be/fN9XYn8lW6U)
+[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/31.jpg)](https://youtu.be/fN9XYn8lW6U)
+
+32. Use of Submit() | Selenium தமிழ்
+
+[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/32.png)](https://youtu.be/jFaQv0zkQYA)
+

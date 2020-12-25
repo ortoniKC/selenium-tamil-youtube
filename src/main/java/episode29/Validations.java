@@ -30,6 +30,7 @@ public class Validations {
 		driver.get("https://letcode.in/buttons");
 		boolean enabled = driver.findElementById("isDisabled").isEnabled();
 		System.out.println(enabled);
+		
 
 		driver.get("https://semantic-ui.com/elements/button.html");
 		WebElement btn = driver.findElementByXPath("//button[text()[normalize-space()='Followed']]");
