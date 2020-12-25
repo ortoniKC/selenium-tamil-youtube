@@ -136,5 +136,8 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 30. Close vs Quit | Selenium தமிழ்
 
-[![Alert](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/30.png)](https://youtu.be/QX4sXw_q2yc)
+[![close](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/30.png)](https://youtu.be/QX4sXw_q2yc)
 
+31. How to do Validation | Selenium தமிழ்
+
+[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/31.png)](https://youtu.be/fN9XYn8lW6U)
