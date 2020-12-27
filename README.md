@@ -165,3 +165,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 37. Inheritance in Java | Selenium தமிழ்
 
 [![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/37.png)](https://youtu.be/HHUQAQbo8fE)
+
+38. List & Set | Selenium தமிழ்
+
+[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/38.png)](https://youtu.be/DYoSf7089BU)
