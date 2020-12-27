@@ -150,3 +150,8 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/33.png)](https://youtu.be/jFaQv0zkQYA)
 
+34. Interact with element without finding element | Selenium தமிழ்
+
+[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/34.png)](https://youtu.be/Jzw841nMva4)
+
+
