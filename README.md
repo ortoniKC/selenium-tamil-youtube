@@ -169,3 +169,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 38. List & Set | Selenium தமிழ்
 
 [![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/38.png)](https://youtu.be/DYoSf7089BU)
+
+39. Find Elements | Selenium தமிழ்
+
+[![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/39.png)](https://youtu.be/AzCzzPWfrl0)
