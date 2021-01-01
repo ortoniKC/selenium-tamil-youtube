@@ -173,3 +173,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 39. Find Elements | Selenium தமிழ்
 
 [![validation](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/39.png)](https://youtu.be/AzCzzPWfrl0)
+
+40. Window Handling | Selenium தமிழ்
+
+[![windows](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/40.png)](https://youtu.be/YmqHlHpP3Xo)
