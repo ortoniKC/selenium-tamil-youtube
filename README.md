@@ -177,3 +177,8 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 40. Window Handling | Selenium தமிழ்
 
 [![windows](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/40.png)](https://youtu.be/YmqHlHpP3Xo)
+
+41. Web Table | Selenium தமிழ்
+
+[![windows](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/41.png)](https://youtu.be/A8DLNSWJdbU)
+
