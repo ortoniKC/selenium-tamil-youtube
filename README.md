@@ -182,7 +182,11 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![windows](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/41.png)](https://youtu.be/A8DLNSWJdbU)
 
-42. Web Table | Selenium தமிழ்
+42. Explicti Wait - WebDriver Wait | Selenium தமிழ்
 
 [![waits](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/42.png)](https://youtu.be/wudhETMLKHc)
+
+43. Exception Handling | Selenium தமிழ்
+
+[![Exception](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/43.png)](https://youtu.be/y-Dh4uGM_x8)
 
