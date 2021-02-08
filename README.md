@@ -190,3 +190,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![Exception](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/43.png)](https://youtu.be/y-Dh4uGM_x8)
 
+44. Throw VS Throws | Selenium தமிழ்
+
+[![throw](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/44.png)](https://youtu.be/TKbnWAzU9WQ)
+
