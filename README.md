@@ -194,3 +194,8 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [![throw](https://raw.githubusercontent.com/ortoniKC/selenium-tamil-youtube/images/images/44.png)](https://youtu.be/TKbnWAzU9WQ)
 
+### TestNG
+
+[1. TestNG Part - 1 | Intro & Installation](https://youtu.be/K6ET456rQnQ)
+
+[2. TestNG Part - 2 | How to run multiple tests using XML](https://youtu.be/2B_tBBqHkmI)
