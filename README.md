@@ -199,3 +199,17 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 [1. TestNG Part - 1 | Intro & Installation](https://youtu.be/K6ET456rQnQ)
 
 [2. TestNG Part - 2 | How to run multiple tests using XML](https://youtu.be/2B_tBBqHkmI)
+
+[3. TestNG Part - 3 | Parallel Execution](https://youtu.be/Th4c41GbDKs)
+
+[4. TestNG Part - 4 | Attributes 1](https://youtu.be/BTKlqBVUy4w)
+
+[5. TestNG Part - 5 | Attributes 2](https://youtu.be/JXCodi8sB74)
+
+[6. TestNG Part - 6 | Attributes 3](https://youtu.be/auGPJ467orc)
+
+[7. TestNG Part - 7 | Attributes 4](https://youtu.be/N5902k_X5ac)
+
+[8. TestNG Part - 8 | Attributes 5](https://youtu.be/ZHYA3d2k3QI)
+
+[9. TestNG Part - 9 | Attributes 6](https://youtu.be/qBIK4ZRpDE0)
