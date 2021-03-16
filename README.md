@@ -213,3 +213,5 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 [8. TestNG Part - 8 | Attributes 5](https://youtu.be/ZHYA3d2k3QI)
 
 [9. TestNG Part - 9 | Attributes 6](https://youtu.be/qBIK4ZRpDE0)
+
+[10. TestNG Part - 10 | Parameters](https://youtu.be/eWTySpU1Vqs)
