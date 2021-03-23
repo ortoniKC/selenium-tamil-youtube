@@ -3,16 +3,13 @@
 <suite name="Suite" parallel="tests">
 	<parameter name="emailId" value="koushik350@gmail.com"></parameter>
 	<parameter name="password" value="Pass123$"></parameter>
+	<parameter name="browser" value="chrome"></parameter>
 	<test thread-count="5" name="ChromeTest">
-		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			<class name="testNgBasic.LearnParamters" />
+			<class name="testNgBasic.LearnDataProvider" />
 		</classes>
 	</test> <!-- Test -->
-	<test thread-count="5" name="FoxTest">
-		<parameter name="browser" value="firefox"></parameter>
-		<classes>
-			<class name="testNgBasic.LearnParamters" />
-		</classes>
-	</test> <!-- Test -->
+	<!-- <test thread-count="5" name="FoxTest"> <parameter name="browser" value="firefox"></parameter> 
+		<classes> <class name="testNgBasic.LearnParamters" /> </classes> </test> 
+		Test -->
 </suite> <!-- Suite -->

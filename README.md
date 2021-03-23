@@ -219,3 +219,7 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 [11. TestNG Part - 11 | Parameters in detail](https://youtu.be/NyeNacT0aRc)
 
 [12. TetsNG Part - 12 | Data Provider - Part 1](https://youtu.be/g1zBPAJ4UUQ)
+
+[13. TestNG – Data Provider – Part 2 (Data provider class, indices)](https://youtu.be/DAqqpxBRIO4)
+
+[14. TestNG – Data Provider – Part 3 (Parallel, is name mandatory, Parameter & DP)](https://youtu.be/DAqqpxBRIO4)
