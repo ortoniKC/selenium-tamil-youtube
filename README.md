@@ -218,3 +218,4 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 [11. TestNG Part - 11 | Parameters in detail](https://youtu.be/NyeNacT0aRc)
 
+[12. TetsNG Part - 12 | Data Provider - Part 1](https://youtu.be/g1zBPAJ4UUQ)
