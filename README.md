@@ -223,3 +223,9 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 [13. TestNG – Data Provider – Part 2 (Data provider class, indices)](https://youtu.be/DAqqpxBRIO4)
 
 [14. TestNG – Data Provider – Part 3 (Parallel, is name mandatory, Parameter & DP)](https://youtu.be/DAqqpxBRIO4)
+
+[15. Read Data From Excel - Part 1 | Selenium தமிழ்](https://youtu.be/Rsvan2NEqlg)
+
+[16. Read Data From Excel - Part 2 | Selenium தமிழ்](https://youtu.be/2VAFdGBpW88)
+
+[16. Data Provider Integration With Excel | Selenium தமிழ்](https://youtu.be/RiYQrqwjoqo)
